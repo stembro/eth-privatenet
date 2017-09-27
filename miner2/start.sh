@@ -1,1 +1,1 @@
-geth --identity "miner2" --networkid 42 --datadir "./miner2/data" --nodiscover --mine --rpc --rpcport "8043" --port "30304" --unlock 0 --password ./password.sec
+geth --identity "miner2" --networkid 42 --datadir "./miner2/data" --nodiscover --mine --rpc --rpcport "8043" --port "30304" --unlock 0xf4fd15a2f061e82dc24b96c7701a53c1d2a9441e --password ./miner2/init/password.sec

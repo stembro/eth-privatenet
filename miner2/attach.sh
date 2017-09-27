@@ -1,0 +1,1 @@
+geth attach ipc:./miner2/data/geth.ipc
