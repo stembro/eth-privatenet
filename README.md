@@ -1,5 +1,7 @@
 # eth-privatenet
 
+The scripts will create a private ethereum network with two private miner nodes and two accounts pre-allocated with ether. Useful for quickly getting setup to test contracts/dapps.
+
 Usage:
 
 Terminal 1:
